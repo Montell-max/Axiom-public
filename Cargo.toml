@@ -1,13 +1,11 @@
 [workspace]
 members = [
-    "public/axiom-core",
-    "public/axiom-integrity",
-    "public/axiom-identity",
-    "public/axiom-state",
-    "public/axiom-boundary",
-    "public/axiom-sanctuary",
-    "public/axiom-demo",
-    "enterprise/aive",
-    "enterprise/billing",
+    "axiom-core",
+    "axiom-integrity",
+    "axiom-identity",
+    "axiom-state",
+    "axiom-boundary",
+    "axiom-sanctuary",
+    "axiom-demo",
 ]
 # Shared deps if needed, but minimal
